@@ -1,0 +1,12 @@
+.jumbotron {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #cccccc;
+    border-radius: 5px;
+    padding: 10px 0px;
+}
+
+.jumbotron .lead {
+    font-size: 1.5rem;
+}
